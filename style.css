@@ -297,4 +297,12 @@
         padding: 1em;
         text-align: center;
     }
+
+}
+
+@media (max-width: 575.98px) {
+    .footer {
+        width: 52em;
+        text-align: center;
+    }
 }
