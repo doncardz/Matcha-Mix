@@ -300,9 +300,16 @@
 
 }
 
+@medi (max-width: 575.98px) {
+    .gallery:hover {
+    border: 3px solid #C5D89D;
+    }
+}
+
 @media (max-width: 575.98px) {
     .footer {
         width: 52em;
         text-align: center;
     }
 }
+
